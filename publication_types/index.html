@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Technical Director &amp; Data Architecture Practice Lead">
+  <meta name="description" content="Gonzalo Zarza Website">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://gonzazarza.github.io/publication_types/">
+  <link rel="alternate" hreflang="en-us" href="https://www.gonzalozarza.me/publication_types/">
 
   
 
@@ -209,18 +209,56 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-160647339-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-160647339-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
   
-  <link rel="alternate" href="/publication_types/index.xml" type="application/rss+xml" title="Academic">
+  <link rel="alternate" href="/publication_types/index.xml" type="application/rss+xml" title="Gonzalo Zarza">
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://gonzazarza.github.io/publication_types/">
+  <link rel="canonical" href="https://www.gonzalozarza.me/publication_types/">
 
   
   
@@ -233,11 +271,14 @@
   
   <meta property="twitter:card" content="summary">
   
-  <meta property="og:site_name" content="Academic">
-  <meta property="og:url" content="https://gonzazarza.github.io/publication_types/">
-  <meta property="og:title" content="Publication_types | Academic">
-  <meta property="og:description" content="Technical Director &amp; Data Architecture Practice Lead"><meta property="og:image" content="https://gonzazarza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://gonzazarza.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="twitter:site" content="@gonzazarza">
+  <meta property="twitter:creator" content="@gonzazarza">
+  
+  <meta property="og:site_name" content="Gonzalo Zarza">
+  <meta property="og:url" content="https://www.gonzalozarza.me/publication_types/">
+  <meta property="og:title" content="Publication_types | Gonzalo Zarza">
+  <meta property="og:description" content="Gonzalo Zarza Website"><meta property="og:image" content="https://www.gonzalozarza.me/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://www.gonzalozarza.me/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
   
@@ -256,7 +297,7 @@
 
 
 
-  <title>Publication_types | Academic</title>
+  <title>Publication_types | Gonzalo Zarza</title>
 
 </head>
 
@@ -307,7 +348,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Gonzalo Zarza</a>
     </div>
     
 
@@ -320,7 +361,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Academic</a>
+      <a class="navbar-brand" href="/">Gonzalo Zarza</a>
     </div>
     
 
@@ -367,6 +408,8 @@
         
         
           
+            
+          
         
 
         
@@ -374,46 +417,10 @@
         
         
         
-        
-          
-          
-          
-            
-          
-          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          <a class="nav-link " href="https://www.linkedin.com/in/gonzalozarza/" target="_blank" rel="noopener"><span>Work</span></a>
         </li>
 
         
@@ -443,6 +450,35 @@
 
         <li class="nav-item">
           <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talk"><span>Events & Press</span></a>
         </li>
 
         
@@ -659,7 +695,7 @@
   
 
   <p class="powered-by">
-    
+    © 2019-2020 Gonzalo Zarza &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for

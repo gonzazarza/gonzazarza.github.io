@@ -3,39 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://gonzazarza.github.io/authors/admin/</loc>
+    <loc>https://www.gonzalozarza.me/authors/gonza-zarza/</loc>
   </url>
   
   <url>
-    <loc>https://gonzazarza.github.io/</loc>
+    <loc>https://www.gonzalozarza.me/authors/</loc>
   </url>
   
   <url>
-    <loc>https://gonzazarza.github.io/authors/</loc>
+    <loc>https://www.gonzalozarza.me/categories/</loc>
   </url>
   
   <url>
-    <loc>https://gonzazarza.github.io/categories/</loc>
+    <loc>https://www.gonzalozarza.me/formspree.io/</loc>
   </url>
   
   <url>
-    <loc>https://gonzazarza.github.io/post/</loc>
+    <loc>https://www.gonzalozarza.me/gazarzagmail.com/</loc>
   </url>
   
   <url>
-    <loc>https://gonzazarza.github.io/publication_types/</loc>
+    <loc>https://www.gonzalozarza.me/</loc>
   </url>
   
   <url>
-    <loc>https://gonzazarza.github.io/publication/</loc>
+    <loc>https://www.gonzalozarza.me/post/</loc>
   </url>
   
   <url>
-    <loc>https://gonzazarza.github.io/talk/</loc>
+    <loc>https://www.gonzalozarza.me/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://gonzazarza.github.io/tags/</loc>
+    <loc>https://www.gonzalozarza.me/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/true/</loc>
   </url>
   
 </urlset>
