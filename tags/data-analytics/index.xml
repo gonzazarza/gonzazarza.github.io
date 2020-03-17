@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data analytics | Gonzalo Zarza</title>
+    <link>https://www.gonzalozarza.me/tags/data-analytics/</link>
+      <atom:link href="https://www.gonzalozarza.me/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    <description>data analytics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Gonzalo Zarza</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.gonzalozarza.me/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_512x512_fill_lanczos_center_2.png</url>
+      <title>data analytics</title>
+      <link>https://www.gonzalozarza.me/tags/data-analytics/</link>
+    </image>
+    
+    <item>
+      <title>La ingeniería del Big Data, Cómo trabajar con datos</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2017-book/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2017-book/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

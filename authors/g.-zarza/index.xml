@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Zarza | Gonzalo Zarza</title>
+    <link>https://www.gonzalozarza.me/authors/g.-zarza/</link>
+      <atom:link href="https://www.gonzalozarza.me/authors/g.-zarza/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Zarza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Gonzalo Zarza</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.gonzalozarza.me/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Zarza</title>
+      <link>https://www.gonzalozarza.me/authors/g.-zarza/</link>
+    </image>
+    
+    <item>
+      <title>La ingeniería del Big Data, Cómo trabajar con datos</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2017-book/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2017-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History-Aware Adaptive Routing Algorithm For Energy Saving in Interconnection Networks</title>
+      <link>https://www.gonzalozarza.me/publication/nguyen-2013-pdpta/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/nguyen-2013-pdpta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ClusterGUI, an Application to Launch OPNET Simulations within Resource Managed Environments</title>
+      <link>https://www.gonzalozarza.me/publication/nunez-2011-opnetwork/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/nunez-2011-opnetwork/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multipath Fault-tolerant Routing Policies to deal with Dynamic Link Failures in High Speed Interconnection Networks</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2011-ph-d-hpc-uab/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2011-ph-d-hpc-uab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-blocking Adaptive Cycles: Deadlock Avoidance for Fault-tolerant Interconnection Networks</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2010-cluster/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2010-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault-tolerant Routing for Multiple Permanent and Non-permanent Faults in HPC Systems</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2010-pdpta/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2010-pdpta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multipath Routing Method for Tolerating Permanent and Non-Permanent Faults</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2010-jcst/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2010-jcst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multipath Routing Method for Tolerating Permanent and Non-Permanent Faults</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2009-cacic/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2009-cacic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multipath Fault-Tolerant Routing Method for High-Speed Interconnection Networks</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2009-euro-par/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2009-euro-par/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

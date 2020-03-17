@@ -3,11 +3,402 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.gonzalozarza.me/authors/gonza-zarza/</loc>
+    <loc>https://www.gonzalozarza.me/publication_types/5/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.gonzalozarza.me/authors/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/big-data/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/data-analytics/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/data-driven/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/data-science/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/g.-zarza/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/hadoop/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/ingenieria-de-datos/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/inteligencia-artificial/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/j.-lopez-murphy/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2017-book/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/nosql/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/producto-viable-minimo-mvp/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication_types/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/spark/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/transformacion-digital/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication_types/1/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/d.-franco/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/e.-luque/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/energy-saving/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/h.-nguyen/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/history-aware/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/nguyen-2013-pdpta/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/interconnection-networks/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/routing-algorithm/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication_types/2/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication_types/8/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2012-iccs/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/daniel-franco/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/diego-lugones/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/emilio-luque/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/gonzalo-zarza/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/high-performance-computing/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2012-patent-draft/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/opnet-modeler/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/simulation-management/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/university-education/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication_types/0/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/c.-nunez/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/nunez-2011-opnetwork/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/d.-lugones/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/j.-navarro/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication_types/7/</loc>
+    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2011-ph-d-hpc-uab/</loc>
+    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/networks-fault-tolerance-routing/</loc>
+    <lastmod>2011-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/fault-tolerant-interconnection-networkfully-adaptive-routing-algorithmhigh-performance-computing-systemnonblocking-adaptive-cyclesscalable-deadlock-avoidance-techniquefault-tolerant-computingmultiprocessor-interconnection-networks/</loc>
+    <lastmod>2010-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2010-cluster/</loc>
+    <lastmod>2010-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/adaptive-routing/</loc>
+    <lastmod>2010-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/bibliographic-data/</loc>
+    <lastmod>2010-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/connection-graphs/</loc>
+    <lastmod>2010-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2010-master-multimedia-uab/</loc>
+    <lastmod>2010-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/fault-tolerance/</loc>
+    <lastmod>2010-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2010-pdpta/</loc>
+    <lastmod>2010-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/hypergraphs./</loc>
+    <lastmod>2010-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/web-applications/</loc>
+    <lastmod>2010-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/deadlock-avoidance/</loc>
+    <lastmod>2010-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2010-pdp-deadlock/</loc>
+    <lastmod>2010-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2010-pdp-ftdrb/</loc>
+    <lastmod>2010-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/multipath-routing/</loc>
+    <lastmod>2010-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2010-jcst/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2009-cacic/</loc>
+    <lastmod>2009-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2009-jp/</loc>
+    <lastmod>2009-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2009-euro-par/</loc>
+    <lastmod>2009-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2008-master-hpc-uab/</loc>
+    <lastmod>2008-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/zarza-2007-wicc/</loc>
+    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/hugo-minni/</loc>
+    <lastmod>2007-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/databases/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/godoy-2006-cacic/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/publication/godoy-2006-eji/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/education-informatics/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/horacio-loyarte/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/learning-objects/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/roberto-javier-godoy/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/software-engineering/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/web-systems/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/authors/gonza-zarza/</loc>
   </url>
   
   <url>
@@ -15,27 +406,11 @@
   </url>
   
   <url>
-    <loc>https://www.gonzalozarza.me/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.gonzalozarza.me/post/</loc>
   </url>
   
   <url>
-    <loc>https://www.gonzalozarza.me/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.gonzalozarza.me/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.gonzalozarza.me/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.gonzalozarza.me/tags/</loc>
   </url>
   
 </urlset>

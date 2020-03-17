@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deadlock avoidance | Gonzalo Zarza</title>
+    <link>https://www.gonzalozarza.me/tags/deadlock-avoidance/</link>
+      <atom:link href="https://www.gonzalozarza.me/tags/deadlock-avoidance/index.xml" rel="self" type="application/rss+xml" />
+    <description>deadlock avoidance</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Gonzalo Zarza</copyright><lastBuildDate>Mon, 01 Feb 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.gonzalozarza.me/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_512x512_fill_lanczos_center_2.png</url>
+      <title>deadlock avoidance</title>
+      <link>https://www.gonzalozarza.me/tags/deadlock-avoidance/</link>
+    </image>
+    
+    <item>
+      <title>Deadlock Avoidance for Interconnection Networks with Multiple Dynamic Faults</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2010-pdp-deadlock/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2010-pdp-deadlock/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

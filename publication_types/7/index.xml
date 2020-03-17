@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Gonzalo Zarza</title>
+    <link>https://www.gonzalozarza.me/publication_types/7/</link>
+      <atom:link href="https://www.gonzalozarza.me/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Gonzalo Zarza</copyright><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.gonzalozarza.me/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_512x512_fill_lanczos_center_2.png</url>
+      <title>7</title>
+      <link>https://www.gonzalozarza.me/publication_types/7/</link>
+    </image>
+    
+    <item>
+      <title>Multipath Fault-tolerant Routing Policies to deal with Dynamic Link Failures in High Speed Interconnection Networks</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2011-ph-d-hpc-uab/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2011-ph-d-hpc-uab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diseño de una aplicación Web para procesar y visualizar contenidos bibliográficos</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2010-master-multimedia-uab/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2010-master-multimedia-uab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Políticas de encaminamiento tolerantes a fallos</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2008-master-hpc-uab/</link>
+      <pubDate>Tue, 01 Jul 2008 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2008-master-hpc-uab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

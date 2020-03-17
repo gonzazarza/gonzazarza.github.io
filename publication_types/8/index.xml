@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 | Gonzalo Zarza</title>
+    <link>https://www.gonzalozarza.me/publication_types/8/</link>
+      <atom:link href="https://www.gonzalozarza.me/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Gonzalo Zarza</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.gonzalozarza.me/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_512x512_fill_lanczos_center_2.png</url>
+      <title>8</title>
+      <link>https://www.gonzalozarza.me/publication_types/8/</link>
+    </image>
+    
+    <item>
+      <title>Method, System and Router for Avoiding Blockages in an Interconnection Network</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2012-patent-draft/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2012-patent-draft/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

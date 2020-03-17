@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Gonzalo Zarza</title>
+    <link>https://www.gonzalozarza.me/publication_types/1/</link>
+      <atom:link href="https://www.gonzalozarza.me/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Gonzalo Zarza</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.gonzalozarza.me/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://www.gonzalozarza.me/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>History-Aware Adaptive Routing Algorithm For Energy Saving in Interconnection Networks</title>
+      <link>https://www.gonzalozarza.me/publication/nguyen-2013-pdpta/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/nguyen-2013-pdpta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-blocking Adaptive Cycles: Deadlock Avoidance for Fault-tolerant Interconnection Networks</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2010-cluster/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2010-cluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault-tolerant Routing for Multiple Permanent and Non-permanent Faults in HPC Systems</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2010-pdpta/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2010-pdpta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deadlock Avoidance for Interconnection Networks with Multiple Dynamic Faults</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2010-pdp-deadlock/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2010-pdp-deadlock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FT-DRB: A Method for Tolerating Dynamic Faults in High-Speed Interconnection Networks</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2010-pdp-ftdrb/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2010-pdp-ftdrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multipath Routing Method for Tolerating Permanent and Non-Permanent Faults</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2009-cacic/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2009-cacic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multipath Fault-Tolerant Routing Policies for High-Speed Interconnection Networks</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2009-jp/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2009-jp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Multipath Fault-Tolerant Routing Method for High-Speed Interconnection Networks</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2009-euro-par/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2009-euro-par/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generación dinámica de interfaces de usuario a partir de modelos representados mediante esquemas XML</title>
+      <link>https://www.gonzalozarza.me/publication/zarza-2007-wicc/</link>
+      <pubDate>Tue, 01 May 2007 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/zarza-2007-wicc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design Criteria For The Development Of An Institutional Learning Object Repository</title>
+      <link>https://www.gonzalozarza.me/publication/godoy-2006-cacic/</link>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/godoy-2006-cacic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

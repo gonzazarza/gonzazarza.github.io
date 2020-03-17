@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Nguyen | Gonzalo Zarza</title>
+    <link>https://www.gonzalozarza.me/authors/h.-nguyen/</link>
+      <atom:link href="https://www.gonzalozarza.me/authors/h.-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Nguyen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Gonzalo Zarza</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.gonzalozarza.me/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_512x512_fill_lanczos_center_2.png</url>
+      <title>H. Nguyen</title>
+      <link>https://www.gonzalozarza.me/authors/h.-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>History-Aware Adaptive Routing Algorithm For Energy Saving in Interconnection Networks</title>
+      <link>https://www.gonzalozarza.me/publication/nguyen-2013-pdpta/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/publication/nguyen-2013-pdpta/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
