@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.gonzalozarza.me/tags/article/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/contributions/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/contributions/article_enterprisers/</loc>
+    <lastmod>2019-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/contributions/article_datanami/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/contributions/article_stay_relevant_globant/</loc>
+    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/contributions/article_insider/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.gonzalozarza.me/publication_types/5/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -34,11 +74,6 @@
   
   <url>
     <loc>https://www.gonzalozarza.me/authors/g.-zarza/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.gonzalozarza.me/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,13 +128,18 @@
   </url>
   
   <url>
-    <loc>https://www.gonzalozarza.me/tags/</loc>
+    <loc>https://www.gonzalozarza.me/tags/transformacion-digital/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.gonzalozarza.me/tags/transformacion-digital/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <loc>https://www.gonzalozarza.me/contributions/interview_revista_unlp/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.gonzalozarza.me/tags/interview/</loc>
+    <lastmod>2016-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

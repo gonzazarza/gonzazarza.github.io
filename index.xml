@@ -5,7 +5,7 @@
     <link>https://www.gonzalozarza.me/</link>
       <atom:link href="https://www.gonzalozarza.me/index.xml" rel="self" type="application/rss+xml" />
     <description>Gonzalo Zarza</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Gonzalo Zarza</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Gonzalo Zarza</copyright><lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.gonzalozarza.me/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_512x512_fill_lanczos_center_2.png</url>
       <title>Gonzalo Zarza</title>
@@ -13,10 +13,50 @@
     </image>
     
     <item>
+      <title>The Enterprisers Project</title>
+      <link>https://www.gonzalozarza.me/contributions/article_enterprisers/</link>
+      <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/contributions/article_enterprisers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Datanami</title>
+      <link>https://www.gonzalozarza.me/contributions/article_datanami/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/contributions/article_datanami/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stay Relevant Blog</title>
+      <link>https://www.gonzalozarza.me/contributions/article_stay_relevant_globant/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/contributions/article_stay_relevant_globant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Insider Latam</title>
+      <link>https://www.gonzalozarza.me/contributions/article_insider/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/contributions/article_insider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>La ingeniería del Big Data, Cómo trabajar con datos</title>
       <link>https://www.gonzalozarza.me/publication/zarza-2017-book/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://www.gonzalozarza.me/publication/zarza-2017-book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bit &amp; Byte - UNLP</title>
+      <link>https://www.gonzalozarza.me/contributions/interview_revista_unlp/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/contributions/interview_revista_unlp/</guid>
       <description></description>
     </item>
     

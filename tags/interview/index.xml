@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interview | Gonzalo Zarza</title>
+    <link>https://www.gonzalozarza.me/tags/interview/</link>
+      <atom:link href="https://www.gonzalozarza.me/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <description>interview</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019-2020 Gonzalo Zarza</copyright><lastBuildDate>Thu, 01 Dec 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.gonzalozarza.me/images/icon_hu39ef5c111f16a5afed83f5f19a5340b6_22334_512x512_fill_lanczos_center_2.png</url>
+      <title>interview</title>
+      <link>https://www.gonzalozarza.me/tags/interview/</link>
+    </image>
+    
+    <item>
+      <title>Bit &amp; Byte - UNLP</title>
+      <link>https://www.gonzalozarza.me/contributions/interview_revista_unlp/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.gonzalozarza.me/contributions/interview_revista_unlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
